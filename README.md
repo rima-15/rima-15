@@ -1,4 +1,4 @@
-<h1 align="center">Rima Alsonbul</h1>
+<h1 align="center">Rima Khalid Alsonbul</h1>
 
 <p align="center"><strong>Information Technology Graduate · Data Science & AI</strong></p>
 
