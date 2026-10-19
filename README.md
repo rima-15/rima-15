@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="assets/profile-banner.png" alt="Rima Alsonbul — Data Science & AI, Software Development, AR/VR" width="100%">
-</p>
+<h1 align="center">Rima Alsonbul</h1>
+
+<p align="center"><strong>Information Technology Graduate · Data Science & AI</strong></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rima-alsonbul-55b90424b/">LinkedIn</a>
@@ -8,7 +8,15 @@
   <a href="mailto:rikhmoso1425@gmail.com">Email</a>
 </p>
 
-Information Technology graduate from **King Saud University**, with **First Class Honors**. My interests include computer vision, NLP, and spatial computing.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0B4545?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Flutter-0B4545?style=flat&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Unity-0B4545?style=flat&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/Firebase-0B4545?style=flat&logo=firebase&logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/Git-0B4545?style=flat&logo=git&logoColor=white" alt="Git">
+</p>
+
+Graduate of **King Saud University**, with **First Class Honors**. My interests include computer vision, NLP, and spatial computing.
 
 ## Selected Projects
 
