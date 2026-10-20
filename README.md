@@ -3,6 +3,8 @@
 <p align="center"><strong>Information Technology Graduate · Data Science & AI</strong></p>
 
 <p align="center">
+  <a href="https://rima-15.github.io/rima-portfolio/">Portfolio</a>
+  &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/rima-alsonbul-55b90424b/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:rikhmoso1425@gmail.com">Email</a>
